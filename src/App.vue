@@ -9,6 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+      Thuận đẹp trai
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
